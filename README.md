@@ -1,26 +1,29 @@
-# hyperblog
-Un blog increible para el curso  de Git y Github de P# Hyperblog 💚
-Un blog increíble para el[ curso de Git y Github](# Hyperblog 💚
-Un blog increíble para el[ curso de Git y Github](https://leopoldojc.github.io/OsadiaVivaldi// " curso de Git y Github") de [Platzi](https://platzi.com/ "Platzi")
-> El curso de Git y Github de Platzi es lo que me hacía falta para triplicar mi salario y lanzarme a la industria del tejido de lana sintética con Machine Learning
-> - niñita
+# OsadiaVivaldi
 
-## En este curso vemos de todo
-* Todos los comandos de Git
-* El flujo de trabajo en Github
-* El verdadero amor por las buenas prácticas
-* Trucos muy locos del profesor
-* Las personalidades múltiples de Freddy
+Bienvenido a OsadiaVivaldi, una página de educación financiera donde aprenderás a mejorar tus habilidades financieras y tomar decisiones inteligentes con tu dinero.
 
-Y como un amable recordatorio: **Este readme.md es un chiste**.  Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso")." curso de Git y Github") de [Platzi](https://platzi.com/ "Platzi")
-> El curso de Git y Github de Platzi es lo que me hacía falta para triplicar mi salario y lanzarme a la industria del tejido de lana sintética con Machine Learning
-> - niñita
+## Conceptos básicos
 
-## En este curso vemos de todo
-* Todos los comandos de Git
-* El flujo de trabajo en Github
-* El verdadero amor por las buenas prácticas
-* Trucos muy locos del profesor
-* Las personalidades múltiples de Freddy
+Aquí hay algunos conceptos básicos que cubrimos en OsadiaVivaldi:
 
-Y como un amable recordatorio: **Este readme.md es un chiste**.  Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").latzi
+### Ahorro
+
+El ahorro es la práctica de reservar parte de tus ingresos para el futuro. Aprenderás estrategias para ahorrar de manera efectiva y establecer metas financieras realistas.
+
+### Inversión
+
+La inversión implica destinar dinero a activos que generen retorno. Te enseñaremos los fundamentos de la inversión, cómo identificar oportunidades y diversificar tu cartera.
+
+### Presupuesto
+
+El presupuesto es una herramienta vital para planificar y controlar tus gastos. Descubrirás cómo crear un presupuesto efectivo y mantener un equilibrio saludable entre tus ingresos y gastos.
+
+## Recursos adicionales
+
+Si quieres profundizar más en los temas financieros, aquí tienes algunos recursos adicionales:
+
+- [Calculadora de interés compuesto](https://www.ejemplo.com/calculadora-interes-compuesto) - Calcula el crecimiento de tu dinero con el interés compuesto.
+- [Blog de inversiones](https://www.ejemplo.com/blog-inversiones) - Artículos y consejos sobre estrategias de inversión.
+
+¡Explora nuestros contenidos y empieza a tomar el control de tu futuro financiero!
+
