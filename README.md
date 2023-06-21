@@ -1,5 +1,7 @@
 # OsadiaVivaldi
 
+Probando ensayo y error
+Incluye como ahorrar, crecimiento personal
 Bienvenido a OsadiaVivaldi, una página de educación financiera donde aprenderás a mejorar tus habilidades financieras y tomar decisiones inteligentes con tu dinero.
 
 ## Conceptos básicos
